@@ -1,14 +1,12 @@
-## Awesome-README-Templates
  <img src="https://ik.imagekit.io/27ewoxssse/AWESOME_vC_bLccIN.png" alt="Logo" align="center">
 </br>
 
 ## :information_source:  Selecione o tipo abaixo<br>
-[![PERFIL](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://github.com/iuricode/README-template/tree/main/README-profile)
-
+[![PERFIL](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://github.com/Duduxs/Awesome-README-Templates/tree/main/README-profile)
 
 ---
 
-## 🌈 Contribuidores<br>
+## ✨ Contribuidores<br>
 
 <table>
   <tr>
