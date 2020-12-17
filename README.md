@@ -2,7 +2,7 @@
 </br>
 
 ## :information_source:  Selecione o tipo abaixo<br>
-[![PERFIL](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://github.com/Duduxs/Awesome-README-Templates/tree/main/README-profile)
+[![PERFIL](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://github.com/Duduxs/Awesome-README-Templates/tree/main/Profile-README)
 
 ---
 
