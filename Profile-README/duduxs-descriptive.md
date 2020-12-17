@@ -15,7 +15,7 @@
 
 <br>
 
-<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SEU-USERNAME-DO-GITHUB"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SEU-USERNAME-DO-GITHUB&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Duduxs"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Duduxs&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
 
 </br>
