@@ -1,8 +1,9 @@
-***********************************
-### Olá 👋
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Sobre mim</b> <br>
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> Eu sou <strong>Nome</strong> de <strong>Estado</strong>.
+### Olá 👋
+<p align="center">Sobre mim</p>
+
+<p align="left">
+- 👦 Eu sou <strong>Nome</strong> de <strong>Estado</strong>
 
 - 🔭 <strong>Informações sobre sua faculdade/curso</strong>
 
@@ -11,7 +12,7 @@
 - 👯 Eu estou procurando colaborar em projetos open source.
 
 - 💬 Pergunte-me sobre <strong>Seus interesses</strong>
-
+</p>
 <p align="center">📫 Meus contatos</p><br><br>
 
 <p align="center">
