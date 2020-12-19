@@ -1,5 +1,5 @@
 
-# Olá 👋 Eu sou o <strong>Seu nome</strong> 👨‍💻
+# Olá 👋 Eu sou <strong>Seu nome</strong> 👨‍💻
 
 ![header](https://capsule-render.vercel.app/api?text=.&fontColor=ffffff&fontSize=40&fontAlign=40&height=250&section=head&color=gradient)
 
