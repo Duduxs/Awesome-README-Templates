@@ -10,10 +10,10 @@
 
 <h3>📖 Meus livros prediletos</h3>
 
-- [Message broker with Python 101](#) <strong>Livro 1</strong>
-- [Getting started with Hugo](#) <strong>Livro 2</strong>
-- [Git and Github Funshop](#) <strong>Livro 3</strong>
-- [Web Development Career](#) <strong>Livro 4</strong>
+- [Python 101](#) <strong>Livro 1</strong>
+- [Começando com X](#) <strong>Livro 2</strong>
+- [Aprendendo Git e Github](#) <strong>Livro 3</strong>
+- [Meu novo readme](#) <strong>Livro 4</strong>
   <a href="SEU_SITE_PESSOAL_AQUI">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Duduxs&show_icons=true&theme=radical" alt="Github status" />
   </a>
@@ -26,4 +26,4 @@
 
 😄 Pronomes: ele/dele
 
-⚡ Curiosidade sobre mim: Eu amo chocolate!.
+⚡ Curiosidade sobre mim: Eu amo chocolate!

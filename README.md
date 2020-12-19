@@ -1,4 +1,4 @@
- <img src="https://ik.imagekit.io/27ewoxssse/AWESOME_vC_bLccIN.png" alt="Logo" align="center">
+ <img src="https://ik.imagekit.io/27ewoxssse/AWESOME__1__q0JgXgTaJT.png" alt="Logo" align="center">
 </br>
 
 ## :information_source:  Selecione o tipo abaixo<br>
