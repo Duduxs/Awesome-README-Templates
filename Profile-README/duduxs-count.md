@@ -22,7 +22,6 @@
 </p>
 
 *************
-<strong>Contador De Visitantes: </strong> 
+<strong>Contador De Visitantes</strong><br>
 ![VisitorCount](https://profile-counter.glitch.me/{Duduxs}/count.svg)
-
 
