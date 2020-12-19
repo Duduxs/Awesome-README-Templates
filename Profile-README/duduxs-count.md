@@ -1,8 +1,8 @@
 
-### Olá 👋
-<p align="center">Sobre mim</p>
+<p align="center"><b>Sobre mim</b></p>
 
 <p align="left">
+  
 - 👦 Eu sou <strong>Nome</strong> de <strong>Estado</strong>
 
 - 🔭 <strong>Informações sobre sua faculdade/curso</strong>
@@ -13,7 +13,7 @@
 
 - 💬 Pergunte-me sobre <strong>Seus interesses</strong>
 </p>
-<p align="center">📫 Meus contatos</p><br><br>
+<p align="center">📫<b>Meus contatos</br></p>
 
 <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/SEU_FACE_AQUI?ref=bookmarks" target="_blank"> <img align="center" src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
