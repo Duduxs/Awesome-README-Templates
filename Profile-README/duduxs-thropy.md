@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  💻 Habilidades: <strong>Suas tecnologias</strong>
-  🔥 O que estou aprendendo <strong>Tecnologias de estudo</strong>
+  💻 Habilidades: <strong>Suas tecnologias</strong><br>
+  🔥 O que estou aprendendo <strong>Tecnologias de estudo</strong><br>
   🎓 O que estou cursando: <strong>Sua faculdade/cursos</strong>
 </p>
 
