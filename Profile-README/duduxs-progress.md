@@ -23,6 +23,6 @@ Mongo                    1 repo              █░░░░░░░░░░�
 
 <div align="center">  
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Duduxs)!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Duduxs)
 
 </div>
