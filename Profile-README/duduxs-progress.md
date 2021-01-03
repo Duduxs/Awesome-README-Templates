@@ -1,13 +1,12 @@
 
-- 🔭 Eu estou atualmente trabalhando em <strong>Seu projeto atual</strong>...
+- 🔭 Eu estou atualmente trabalhando em <strong>Seu projeto atual</strong>
 
-- 👯 Eu estou procurando colaborar em <strong>Seus interesses</strong>I’m looking to collaborate on ...
+- 👯 Eu estou procurando colaborar em <strong>Seus interesses</strong>
 - 💬 Linguagens de programação <strong>Suas linguagens de programação</strong>
 - 🔥 Editores/IDEs <strong>Eclipse, VSCode, ...</strong>
 - 💻 SO <strong>Os sistemas operacionais que você domina</strong>
 - 📫 Como entrar em contato comigo <strong>Seu email</strong>
 - 😄 Curiosidade sobre mim <strong>Gosto de ouvir gospel quando estou programando</strong>
--->
 
 ```
 
@@ -22,5 +21,8 @@ Mongo                    1 repo              █░░░░░░░░░░�
 ```
 
 
-
+<div align="center">  
+  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Duduxs)!
+
+</div>
