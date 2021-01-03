@@ -30,9 +30,9 @@
 
 <div align="center">
 
-![Your github status](https://github-readme-stats.vercel.app/api?username=DuduxsASJ&show_icons=true&theme=dark)
+![Your github status](https://github-readme-stats.vercel.app/api?username=Duduxs&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuduxsASJ&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxs&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
 
    </div>
 
